@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fdc6130d-74ef-427e-aae8-aac41cd317ef)# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Facebook
 
 1. Pelo Kali Linux abrindo o prompt de comando e digite "sudo su" e insira a senha do seu Kali para entrar no modo administrador.
 2. Digite "setoolkit" após isso irá apresentar essa tela abaixo.
